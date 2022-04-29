@@ -1,1 +1,1 @@
-readme
+console.log(1)
